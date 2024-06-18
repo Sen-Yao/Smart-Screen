@@ -33,7 +33,7 @@
 
 本项目大致可以分为 MCU 部分和 iOS 部分，两者相互独立，可以同时开发。
 
-MCU 采用沁恒公司提供的 IDE MountRiver Studio 进行开发，http://www.mounriver.com/，语言为 C 语言
+MCU 采用沁恒公司提供的 IDE MountRiver Studio 进行开发，http://www.mounriver.com/ 语言为 C 语言
 
 iOS App 采用 Mac 平台上的 Xcode 使用 swift 语言进行开发。
 
@@ -46,3 +46,7 @@ iOS App 采用 Mac 平台上的 Xcode 使用 swift 语言进行开发。
 - C 语言
 - 蓝牙协议栈
 - 低功耗蓝牙
+
+## 联系我
+
+如果对代码有任何疑惑或问题反馈，欢迎联系我 ziyao.lin@senyao.cloud
