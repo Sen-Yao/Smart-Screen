@@ -38,3 +38,11 @@ MCU 采用沁恒公司提供的 IDE MountRiver Studio 进行开发，http://www.
 iOS App 采用 Mac 平台上的 Xcode 使用 swift 语言进行开发。
 
 其他信息参照两个文件夹。
+
+## 基础知识
+
+为了复现并理解此项目，可能需要参考以下知识
+
+- C 语言
+- 蓝牙协议栈
+- 低功耗蓝牙
